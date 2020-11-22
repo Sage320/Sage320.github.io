@@ -1,0 +1,77 @@
+#bootstrap-overrides nav a {font-family: 'Spartan', sans-serif; 
+    font-weight:400;
+    color:#FFCC3F;
+    font-size:1.5em;}
+#bootstrap-overrides nav a:hover {color:white;}
+#bootstrap-overrides header h1 {font-family: 'Spartan', sans-serif; 
+    font-weight:500;
+    margin-top:1em;
+    color:#FFCC3F;}
+#bootstrap-overrides form button {text-decoration:none;
+    border:none;
+    background:#FFCC3F;
+    border-radius:5px;
+    color:black;
+    padding:10px;
+    font-family: 'Spartan', sans-serif; 
+    font-weight:400;
+    margin:0.5em;
+    font-size:1em;}
+#bootstrap-overrides form button:hover {background:white;}
+.header {font-family: 'Spartan', sans-serif; 
+    font-weight:500;
+    color:#FFCC3F;
+    margin:0.5em;
+    font-size:2em;}
+.highlight {font-family: 'Spartan', sans-serif; 
+    font-weight:400;
+    color:#4418C9;
+    margin:0.5em;
+    font-size:2em;}
+.highlightcenter {font-family: 'Spartan', sans-serif; 
+    font-weight:400;
+    color:#4418C9;
+    margin:0.5em;
+    font-size:2em;
+    text-align:center;}
+.text {font-family: 'Spartan', sans-serif; 
+    font-weight:400;
+    color:black;
+    margin:0.5em;
+    text-align:center;
+    font-size:1.5em;}
+.list {font-family: 'Spartan', sans-serif; 
+    font-weight:400;
+    color:black;
+    margin:0.5em;
+    font-size:1.5em;}
+.gallery {font-family: 'Spartan', sans-serif; 
+    font-weight:200;
+    color:black;
+    font-size:1em;}
+.footer {font-family: 'Spartan', sans-serif; 
+    font-weight:200;
+    color:#FFCC3F;
+    margin:0.5em;
+    font-size:1em;}
+.black {background:#000000;}
+.center{display:flex; 
+justify-content:center;}
+.purple {color:#4418C9;}
+.yellow {color:#FFCC3F;}
+.margin {margin:0.5em;}
+.middle {display:flex; justify-content:center;
+align-items:center;}
+.bottom { width:75vw; border-bottom: 3px solid black; }
+.button {text-decoration:none;
+    border:none;
+    background:#4418C9;
+    border-radius:5px;
+    padding:10px;
+    font-family: 'Spartan', sans-serif; 
+    font-weight:400;
+    font-size:1em;
+    margin:0.5em}
+.button a {text-decoration:none;}
+.width {width:100vw;}
+/*font {font-family: 'Spartan', sans-serif;}*/
